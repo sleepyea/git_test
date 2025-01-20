@@ -1,3 +1,3 @@
-# git_tes
+# git_test
 
-Hello Odin!t
+Hello Odin!
